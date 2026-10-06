@@ -1,3 +1,7 @@
+11249A378
+Aim:Sort of numbers in Ascending order Using java.
+Algorithm:
+   
 import java.util.Scanner;
 
 public class 
