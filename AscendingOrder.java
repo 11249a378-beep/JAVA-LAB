@@ -1,6 +1,13 @@
 11249A378
 Aim:Sort of numbers in Ascending order Using java.
 Algorithm:
+1.Start.
+2.Declare an array.
+3.Compare two adjacent elements.
+4.If the first element is greater than the second, swap them.
+5.Repeat until all elements are sorted.
+6.Print the array.
+7.Stop.
    
 import java.util.Scanner;
 
