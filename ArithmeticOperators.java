@@ -1,3 +1,4 @@
+11249A378
 AIM:
     To write and execute a Java program to perform arithmetic operations such as addition, subtraction, multiplication, division and modulus using a switch statement.
 ALGORITHM:
