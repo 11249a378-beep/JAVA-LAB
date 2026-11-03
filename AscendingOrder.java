@@ -45,3 +45,14 @@ System.out.print(a[i]+",");
 System.out.print(a[n-1]);
 }
 }
+OUTPUT:
+Enter number of elements you want in array: 5
+Enter all the elements:
+5
+2
+8
+1
+3
+AscendingOrder:1,2,3,5,8
+RESULT:    
+      The given Java program was successfully executed, and the array elements were arranged in ascending order.
