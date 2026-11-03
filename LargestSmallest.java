@@ -1,3 +1,4 @@
+11249A378
 AIM:
     To write and execute a Java program to find the sum, largest and smallest numbers in an array.
 ALGORITHM:
