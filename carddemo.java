@@ -48,4 +48,5 @@ public void actionPerformed(ActionEvent e)
 buttonCardLayout.next(buttonPanel);
 }
 }
-OUTPUT:
+RESULT:
+      Thus, the Java Applet program was successfully executed to demonstrate CardLayout, which displays one component at a time and switches to the next component when a button is clicked.
